@@ -7,6 +7,8 @@ That is, there's no better one for that given weight.
 
 The script doesn't account for weight reduction items, such as the prisioner's mask.
 
+Item's descriptions were taken directly from https://docs.google.com/spreadsheet/ccc?key=0AsQnoXji-9MCdERSd2ZDRGdaU3pudllXODNSRklRdWc&usp=sharing#gid=3.
+
 Once run, the script produces this table:
 
 Limit: 5.000000
