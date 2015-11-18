@@ -126,21 +126,21 @@ Dependencies
 ===================
 - Python 3: The script is written in python.
 - glpk: Gnu linear programming kit.
-- pulp-py3: Python wrappers for glpk.
+- pulp: Python wrappers for glpk.
 
 
 Instalation Guide (Arch Linux)
 ===================
-- Install Python 3, pip for python 3 and glkp:
+- Install Python 3, pip for python 3 and glkp. For arch linux:
 
 ```bash
 pacman -S python pip glpk
 ```
 
-- Install pulp-py3
+- Install pulp
 
 ```bash
-pip install pulp-py3
+pip install pulp
 ```
 
 - Done! Now you can run the script with:
